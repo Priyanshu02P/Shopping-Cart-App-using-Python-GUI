@@ -1,6 +1,7 @@
 Shopping Cart App using Python GUI
 
 .exe link :
+https://drive.google.com/file/d/1fDfaxa69GqbyPGGF4Vfu6uwW9NrAGZnV/view?usp=sharing
 (as there is max 25mb file upload limit)
 
 UI:
